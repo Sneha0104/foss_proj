@@ -1,3 +1,5 @@
 # foss_proj
-Add your name and a little bit of introduction
-
+Krishnendu Nambiar
+Studied at Navy Children School, Kochi
+Day scholar at MEC
+I like reading and singing
